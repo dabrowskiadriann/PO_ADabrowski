@@ -1,0 +1,3 @@
+123 Jan Kowalski 70
+444 Anna Kwiatkowska 50
+333 Paweł Nowak 310

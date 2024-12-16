@@ -1,0 +1,4 @@
+123;Jan;Kowalski;20
+333;Paweł;Nowak;300
+123;Jan;Kowalski;40
+333;Paweł;Nowak;10
